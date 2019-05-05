@@ -12,5 +12,6 @@ public class user {
         System.out.println(i+j);
         System.out.println("world");
         System.out.println("hello");
+        System.out.println("这是冲突提交");
     }
 }
