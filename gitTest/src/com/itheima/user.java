@@ -11,5 +11,6 @@ public class user {
         int j = 20;
         System.out.println(i+j);
         System.out.println("world");
+        System.out.println("hello");
     }
 }
