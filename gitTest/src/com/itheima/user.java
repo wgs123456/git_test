@@ -12,6 +12,7 @@ public class user {
         System.out.println(i+j);
         System.out.println("world");
         System.out.println("hello");
+        System.out.println("这是第一次提交");
         System.out.println("这是冲突提交");
     }
 }
