@@ -6,4 +6,7 @@ public class user {
         int b = 6;
         System.out.println(a+b);
     }
+    public void test(){
+        int i = 10;
+    }
 }
